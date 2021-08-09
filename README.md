@@ -1,2 +1,2 @@
 # flappy bird
-vanilla javascript flappy bird game 
+vanilla javascript flappy bird game. 
